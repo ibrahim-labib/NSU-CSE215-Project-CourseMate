@@ -43,3 +43,9 @@ nsu_coursemate/
     ├── ManageCoursesDialog.java 
     ├──WrapLayout.java 
 
+
+👨‍💻 Author
+
+Ibrahim Labib
+CSE Student, North South University
+
