@@ -25,3 +25,21 @@ OOP principles (Inheritance, Encapsulation, Polymorphism, Abstraction)
 File Handling (Serialization for saving data)
 
 📂 Project Structure
+nsu_coursemate/ 
+├── academics/ 
+│   ├── AcademicEntity.java 
+│   ├── AcademicItem.java 
+│   ├── Assignment.java 
+│   └── Exam.java 
+├── core/ 
+│   ├── Course.java 
+│   ├── CourseMate.java 
+│   ├── GPACalculator.java 
+│   └── exceptions/ 
+│       └── CourseNotFoundException.java 
+├── app/ 
+    ├── LoginScreen.java 
+    ├── HomeScreen.java 
+    ├── ManageCoursesDialog.java 
+    ├──WrapLayout.java 
+
